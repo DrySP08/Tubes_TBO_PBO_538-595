@@ -3,14 +3,14 @@ Berikut merupakan Tugas Besar dari matakuliah TBO dan PBO
 
 Dengan Judul yang kami susun "SISTEM INFORMASI PENJUALAN KOPERASI MAHASISWA MENGGUNAKAN BAHASA PEMROGRAMAN JAVA"
 
-Disusun oleh :
-180535632538 - Fabyan Raif Erlangga
-180535632595 - I Putu Arda Mahendra
+Disusun oleh :<br/>
+180535632538 - Fabyan Raif Erlangga<br/>
+180535632595 - I Putu Arda Mahendra<br/>
 
-Berisikan :
-[+] Gambaran Kasar [+]
-[+] Paper Jurnal [+]
-[+] Link sumber refrensi [+]
+Berisikan :<br/>
+[+] Gambaran Kasar [+]<br/>
+[+] Paper Jurnal [+]<br/>
+[+] Link sumber refrensi [+]<br/>
 
-Untuk sementara ini saja yang bisa kami sampaikan.
+Untuk sementara ini saja yang bisa kami sampaikan.<br/>
 [++] Sekian, Terima Kasih ! [++]
