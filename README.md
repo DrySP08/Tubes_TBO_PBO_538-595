@@ -11,6 +11,7 @@ Berisikan :<br/>
 [+] Gambaran Kasar [+]<br/>
 [+] Paper Jurnal [+]<br/>
 [+] Link sumber refrensi [+]<br/>
+[+] Program Tugas Akhir [+]<br/>
 
 Untuk sementara ini saja yang bisa kami sampaikan.<br/>
 [++] Sekian, Terima Kasih ! [++]
